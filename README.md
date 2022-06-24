@@ -1,6 +1,7 @@
+![web developer](https://i.ibb.co/QX9MfBH/github-2.png)
 ### Hi there 👋, Alomgir Hossain
 #### web developer
-![web developer](https://i.ibb.co/QX9MfBH/github-2.png)
+
 
 hi i'm alamgir hossain. I'm deeply interested in web development and very professional about it. I'm always looking for opportunities to solve a coding problem and I always try to share my coding experience with others.
 
