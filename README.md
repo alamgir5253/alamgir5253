@@ -1,4 +1,4 @@
-![web developer](https://i.ibb.co/QX9MfBH/github-2.png)
+![web developer](https://i.ibb.co/Sxj45Tq/github-banner.png)
 ### Hi there 👋, Alomgir Hossain
 #### web developer
 
